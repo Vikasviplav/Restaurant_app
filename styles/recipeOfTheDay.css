@@ -1,0 +1,20 @@
+#result{
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#result img{
+    width: 90%;
+    margin-top: 10px;
+}
+#result>div> p{
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -15px;
+}
